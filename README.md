@@ -20,10 +20,14 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"  />
+    <img width="2" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img width="2" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
   <img width="2" />

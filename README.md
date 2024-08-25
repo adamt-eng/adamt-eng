@@ -1,6 +1,8 @@
-### 👋 Hello, I'm Adam Tamer
-- I’m currently a Computer Engineering student @ Ain Shams University
-- From Cairo, Egypt
+<h1 align="center">👋 Hello, I'm Adam Tamer</h1>
+
+<h3 align="center">Computer Engineering Student @ Ain Shams University</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true" alt="adamt-eng" /> </p>
 
 <br><hr><br>
 

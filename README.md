@@ -10,6 +10,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo"  />
+    <img width="2" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="DotNet logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  />
   <img width="2" />

@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Engineering Student @ Ain Shams University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true" alt="adamt-eng" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true" alt="adamt-eng" /> </p>
 
 <br><hr><br>
 

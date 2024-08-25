@@ -1,8 +1,6 @@
 ### 👋 Hello, I'm Adam Tamer
 - I’m currently a Computer Engineering student @ Ain Shams University
-- From Cairo, Egypt 🌍
-
-<br><hr><br>
+- From Cairo, Egypt
 
 <h3>🛠 Languages & Tools</h3><br>
 

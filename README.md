@@ -2,6 +2,8 @@
 - I’m currently a Computer Engineering student @ Ain Shams University
 - From Cairo, Egypt
 
+<br><hr><br>
+
 <h3>🛠 Languages & Tools</h3><br>
 
 <div align="center">

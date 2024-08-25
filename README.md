@@ -9,16 +9,19 @@
 <div align="center">
   <!-- Programming Languages -->
   <div>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js" height="40" alt="Programming Languages logos" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java" height="40" alt="Programming Languages logos" />
   </div>
   <br/>
   <!-- Web Development -->
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="Web Development logos" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js" height="40" alt="Web Development logos" />
   </div>
   <br/>
   <!-- Tools -->
   <div>
-    <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio,latex" height="40" alt="Tools logos" />
+    <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio" height="40" alt="Tools logos" />
+  </div>
+    <div>
+    <img src="https://skillicons.dev/icons?i=latex,dotnet" height="40" alt="Other logos" />
   </div>
 </div>

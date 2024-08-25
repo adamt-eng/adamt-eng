@@ -20,8 +20,4 @@
   <!-- Tools -->
   <div>
     <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio" height="40" alt="Tools logos" />
-  </div>
-    <div>
-    <img src="https://skillicons.dev/icons?i=latex,dotnet" height="40" alt="Other logos" />
-  </div>
 </div>

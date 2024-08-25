@@ -7,5 +7,18 @@
 <h3 align="center">🛠 Languages & Tools</h3><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,php,js,html,css,git,github,stackoverflow,vscode,visualstudio,latex" height="40" alt="Skills logos" />
+  <!-- Programming Languages -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js" height="40" alt="Programming Languages logos" />
+  </div>
+  <br/>
+  <!-- Web Development -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="Web Development logos" />
+  </div>
+  <br/>
+  <!-- Tools -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio,latex" height="40" alt="Tools logos" />
+  </div>
 </div>

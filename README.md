@@ -28,6 +28,4 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=vmware" height="40" alt="VMware logo" />
 </div>

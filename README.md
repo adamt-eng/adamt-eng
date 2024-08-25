@@ -4,9 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true" alt="adamt-eng" /> </p>
 
-<br><hr><br>
-
-<h3>🛠 Languages & Tools</h3><br>
+<h3 align="center">🛠 Languages & Tools</h3><br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />

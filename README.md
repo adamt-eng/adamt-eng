@@ -19,17 +19,9 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=json" height="40" alt="JSON logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=csv" height="40" alt="CSV logo"  />
-  <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
   <img width="2" />
@@ -38,6 +30,4 @@
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=vmware" height="40" alt="VMware logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" />
 </div>

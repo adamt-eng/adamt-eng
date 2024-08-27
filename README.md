@@ -14,7 +14,7 @@
   <br/>
   <!-- Web Development -->
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,php,js" height="40" alt="Web Development logos" />
+    <img src="https://skillicons.dev/icons?i=php,js,html,css" height="40" alt="Web Development logos" />
   </div>
   <br/>
   <!-- Tools -->

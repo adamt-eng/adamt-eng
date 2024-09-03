@@ -20,4 +20,9 @@
   <!-- Tools -->
   <div>
     <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio" height="40" alt="Tools logos" />
+  </div>
+  <br/><br/> <!-- Add space here -->
+  <div>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&show_icons=true&locale=en&layout=compact" alt="adamt-eng"/></p>
+  </div>
 </div>

@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true"/> 
 </p>
 
-- 🖥️ Building cool stuff with C#
+- 🖥️ Building cool stuff, mainly with C#
 - ⚡ Looking to learn more about databases
 
 ---

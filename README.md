@@ -23,6 +23,6 @@
   </div>
   <br/><br/> <!-- Add space here -->
   <div>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&show_icons=true&locale=en&layout=compact" alt="adamt-eng"/></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&langs_count=20" alt="adamt-eng"/></p>
   </div>
 </div>

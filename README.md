@@ -1,24 +1,32 @@
 <h1 align="center">👋 Hello, I'm Adam</h1>
 <h3 align="center">Self-taught developer from EGYPT 🇪🇬</h3>
 
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true"/> 
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+- 🖥️ Building cool stuff with C#
+- ⚡ Looking to learn more about databases
+
+---
+
+### 🛠️ Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js,html,css" height="45"/>
 </p>
 
-<h3 align="left">💡 Account Info:</h3>
+---
 
+### 💡 Account Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&&size_weight=0.3&count_weight=0.8&layout=compact&langs_count=20&card_width=320&theme=github_dark" />
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br clear="both"/>
 
-<h3 align="left">🎯 Top Repositories:</h3>
+---
+
+### 🎯 Top Repositories:
 
 <div style="display: flex; gap: 10px;">
     <a href="https://github.com/adamt-eng/grade-monitor">

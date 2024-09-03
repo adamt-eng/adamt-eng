@@ -9,21 +9,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" valign="top">
+      <td align="center" valign="top">
         <h3>🛠 Languages & Tools</h3><br>
         <div>
-          <img src="https://skillicons.dev/icons?i=cpp,cs,java" height="40" alt="Programming Languages logos" />
+          <img src="https://skillicons.dev/icons?i=cpp,cs,java" height="45" alt="Programming Languages logos" />
         </div>
         <br/>
         <div>
-          <img src="https://skillicons.dev/icons?i=php,js,html,css" height="40" alt="Web Development logos" />
+          <img src="https://skillicons.dev/icons?i=php,js,html,css" height="45" alt="Web Development logos" />
         </div>
         <br/>
         <div>
-          <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio" height="40" alt="Tools logos" />
+          <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio" height="45" alt="Tools logos" />
         </div>
       </td>
-      <td align="right" valign="top">
+      <td align="center" valign="top">
         <p>
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.4&count_weight=0.6&show_icons=true&locale=en&layout=donut&theme=github_dark_dimmed&langs_count=20" alt="adamt-eng"/>
         </p>

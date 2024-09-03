@@ -19,20 +19,7 @@
 
 ### 💡 Account Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&&size_weight=0.3&count_weight=0.8&layout=compact&langs_count=20&card_width=320&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.3&count_weight=0.8&layout=compact&langs_count=20&card_width=320&theme=github_dark" />
 </p>
 
 <br clear="both"/>
-
----
-
-### 🎯 Top Repositories:
-
-<div style="display: flex; gap: 10px;">
-    <a href="https://github.com/adamt-eng/grade-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=adamt-eng&repo=grade-monitor&theme=github_dark"/>
-    </a>
-    <a href="https://github.com/adamt-eng/digital-product-order-fulfillment-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=adamt-eng&repo=digital-product-order-fulfillment-system&theme=github_dark"/>
-    </a>
-</div>

@@ -19,7 +19,7 @@
 
 ### 💡 Account Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.25&count_weight=0.75&layout=compact&langs_count=15&card_width=320&theme=github_dark&exclude_repo=supermarket-online-shopping-system,book-store" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.2&count_weight=0.8&layout=compact&langs_count=10&card_width=320&theme=github_dark&exclude_repo=supermarket-online-shopping-system,book-store" />
 </p>
 
 <br clear="both"/>

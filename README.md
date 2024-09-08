@@ -7,7 +7,6 @@
 
 - 🖥️ Building cool stuff, mainly with C#
 - ⚡ Looking to learn more about databases
-- 🗂️ I like storing data with JSON.
 
 ---
 

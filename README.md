@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hello, I'm Adam</h1>
-<h3 align="center">Self-taught developer from EGYPT 🇪🇬</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adamt-eng&label=Profile%20Views&color=blue&style=for-the-badge&abbreviated=true"/> 
 </p>
 
-- 🖥️ Building cool stuff, mainly with C#
-- ⚡ Looking to learn more about databases
+- 🖥️ Building cool applications with C++ and C#.
+- ⚡ I'm looking to learn more about databases.
 
 ---
 

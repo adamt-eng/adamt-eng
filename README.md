@@ -5,13 +5,6 @@
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js,cmake,html,css" alt="Programming Languages" height="45"/>
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20&theme=github_dark&exclude_repo=book-store&hide=html" alt="Top Languages"/>

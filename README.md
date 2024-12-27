@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20&theme=github_dark&exclude_repo=book-store&hide=html" alt="Top Languages" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20&theme=github_dark&exclude_repo=book-store&hide=html" alt="Top Languages"/>
 </div>
 
 ---

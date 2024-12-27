@@ -7,7 +7,7 @@
 
 ### 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js,html,css" alt="Programming Languages" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js,cmake,html,css" alt="Programming Languages" height="45"/>
 </p>
 
 ---

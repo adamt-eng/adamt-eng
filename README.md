@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20&theme=github_dark&hide=html,css,cmake" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20&theme=github_dark&&exclude_repo=FinAssist&hide=html,css,cmake" alt="Top Languages"/>
 </div>
 
 ---

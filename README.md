@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.8&count_weight=0.2&layout=compact&langs_count=8&theme=github_dark&hide=html,css,shell,batchfile,cmake,tsql,tex,powershell,jupyter%20notebook&hide_border=true" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0.25&count_weight=0.75&layout=compact&langs_count=8&theme=github_dark&hide=html,css,shell,batchfile,cmake,tsql,tex,powershell,jupyter%20notebook&hide_border=true" alt="Top Languages"/>
     </td>
     <td align="center" valign="middle" width="220">
       <a href="https://www.linkedin.com/in/adamtamer/" target="_blank">

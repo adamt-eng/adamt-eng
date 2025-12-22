@@ -8,19 +8,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamt-eng&size_weight=0&count_weight=1&layout=compact&langs_count=8&theme=github_dark&hide=html,css,shell,batchfile,cmake,tsql,tex,powershell,jupyter%20notebook&hide_border=true" alt="Top Languages"/>
-    </td>
-    <td align="center" valign="middle" width="220">
-      <a href="https://www.linkedin.com/in/adamtamer/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamt-eng&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>

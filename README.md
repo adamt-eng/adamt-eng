@@ -13,9 +13,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamt-eng&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
